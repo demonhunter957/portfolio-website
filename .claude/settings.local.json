@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mv D:/projects/portfolio/*.md /tmp/)",
+      "Bash(ls /tmp/)",
+      "Bash(npx create-next-app@latest . --typescript --tailwind --eslint --app --no-src-dir --import-alias \"@/*\" --use-npm)"
+    ]
+  }
+}
