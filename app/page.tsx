@@ -13,7 +13,7 @@ export default function Home() {
       <Projects />
       <Contact />
       <footer className="border-t border-neutral-800 py-8 text-center text-sm text-secondary">
-        <p>© {new Date().getFullYear()} 个人作品集. All rights reserved.</p>
+        <p>© {new Date().getFullYear()} 克里斯作品集. All rights reserved.</p>
       </footer>
     </main>
   );
